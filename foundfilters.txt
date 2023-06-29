@@ -1,1 +1,6 @@
 [Adblock Plus 3.1]
+||choawour.xyz^
+||hopsackmoth.com^
+||okapisail.com^
+||teaismonless.com^
+||zaistaug.net^
