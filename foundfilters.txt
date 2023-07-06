@@ -1,29 +1,18 @@
 [Adblock Plus 3.1]
-||chileslatrede.com^
-||d2r1yp2w7bby2u.cloudfront.net^
-||ewaipset.xyz^
-||gaudetehoazin.com^
-||ghattiwongsky.com^
-||grunoaph.net^
-||ketaquoted.com^
-||meenetiy.com^
-||ossmightyenar.net^
-||pakrouci.net^
-||sogadetin.com^
-||sprungencase.com^
-||swailsbondman.com^
-||tuckerheiau.com^
-||unbearzonites.com^
-||ursonewry.com^
-||vanirplex.com^
-||yawledabobra.com^
-||avenaryconcent.com^
-||coarooro.net^
-||habitueflasque.com^
-||itaisabirs.com^
-||joupteni.xyz^
-||mellsrecta.com^
-||sandflyligules.com^
-||shookssuluan.com^
-||teelconch.com^
-||funkydeplane.com^
+! Pattern anomalies 
+||movcloud.net^$third-party
+
+
+
+! regular adservers (06.07.23)
+||anaxialaphonia.com^
+||bookeryboutre.com^
+||d1s6z24hqd2168.cloudfront.net^
+||d29k50lkkhkjby.cloudfront.net^
+||d2r08ja41ypc0t.cloudfront.net^
+||d34cixo0lr52lw.cloudfront.net^
+||nableriptide.com^
+||pseemsee.com^
+||smokerythrow.com^
+||tawniessmoot.com^
+||whethobs.xyz^
