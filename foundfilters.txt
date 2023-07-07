@@ -1,18 +1,11 @@
 [Adblock Plus 3.1]
 ! Pattern anomalies 
 ||movcloud.net^$third-party
-
+||navdmp.com^$third-party 
 
 
 ! regular adservers (06.07.23)
-||anaxialaphonia.com^
-||bookeryboutre.com^
-||d1s6z24hqd2168.cloudfront.net^
-||d29k50lkkhkjby.cloudfront.net^
-||d2r08ja41ypc0t.cloudfront.net^
-||d34cixo0lr52lw.cloudfront.net^
-||nableriptide.com^
-||pseemsee.com^
-||smokerythrow.com^
-||tawniessmoot.com^
-||whethobs.xyz^
+||cosseterrits.com^
+||huradisbud.com^
+||iditolshewn.com^
+||paikoaza.net^
