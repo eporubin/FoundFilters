@@ -2,10 +2,9 @@
 ! Pattern anomalies 
 ||movcloud.net^$third-party
 ||navdmp.com^$third-party 
+||infox.sg^$third-party 
+||clarity.ms^$third-party 
 
 
 ! regular adservers (06.07.23)
-||cosseterrits.com^
-||huradisbud.com^
-||iditolshewn.com^
-||paikoaza.net^
+
