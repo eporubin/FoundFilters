@@ -5,23 +5,14 @@
 ||infox.sg^$third-party 
 ||clarity.ms^$third-party 
 ||manhw.com^$third-party 
+||lpsnmedia.net^$third-party 
 
 
 ! regular adservers (10.07.23)
-||abuleiasafflow.com^
-||anyhowunplat.uno^
-||d1pdf4c3hchi80.cloudfront.net^
-||d25lqe4mlyaln6.cloudfront.net.^
-||d280h7aj1u7b0w.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
-||desalthuns.com^
-||feluccahoit.com^
-||neurinacyesis.com^
-||peanutsfuscin.com^
-||poapustu.net^
-||thauzauw.xyz^
-||touracostephe.com^
-||ungloomnisnas.com^
-||yqiyazkddb.com^
-||perksthawers.com^
-||gearedftnerr.com^
+||d10lpsik1i8c69.cloudfront.net^
+||impendscouxio.com^
+||laushoar.xyz^
+||miamiahokums.com^
+||swarfsfitters.com^
+||uptuwhum.net^
+||zaurakfaulted.com^
