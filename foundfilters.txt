@@ -8,11 +8,16 @@
 ||lpsnmedia.net^$third-party 
 
 
-! regular adservers (10.07.23)
-||d10lpsik1i8c69.cloudfront.net^
-||impendscouxio.com^
-||laushoar.xyz^
-||miamiahokums.com^
-||swarfsfitters.com^
-||uptuwhum.net^
-||zaurakfaulted.com^
+! regular adservers (11.07.23)
+||apalbs.com^
+||aulricol.xyz^
+||craneykori.uno^
+||curvierannexa.com^
+||d30qdagvt44524.cloudfront.net^
+||dochouts.net^
+||falsarywaybung.com^
+||holduporatory.com^
+||hubbubtheol.com^
+||misacttaruma.com^
+||refilednisi.com^
+||typablecyclide.com^
