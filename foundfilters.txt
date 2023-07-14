@@ -8,16 +8,14 @@
 ||lpsnmedia.net^$third-party 
 
 
-! regular adservers (11.07.23)
-||apalbs.com^
-||aulricol.xyz^
-||craneykori.uno^
-||curvierannexa.com^
-||d30qdagvt44524.cloudfront.net^
-||dochouts.net^
-||falsarywaybung.com^
-||holduporatory.com^
-||hubbubtheol.com^
-||misacttaruma.com^
-||refilednisi.com^
-||typablecyclide.com^
+! regular adservers (13.07.23)
+||baiwhuga.net^
+||ballinghelonin.com^
+||ensetepoggies.com^
+||d1s6z24hqd2168.cloudfront.net^
+||exotismuntrill.com^
+||loftsbaacad.com^
+||outflednailbin.com^
+||oxazintrombe.com^
+||samogonmarvy.com^
+||teazledbyes.com^
