@@ -8,32 +8,8 @@
 ||lpsnmedia.net^$third-party 
 
 
-! regular adservers (13.07.23)
-||agrilusingest.com^
-||cattailaix.com^
-||d10lpsik1i8c69.cloudfront.net^
-||d11s7fcxy18ubx.cloudfront.net^
-||d1igvjcl1gjs62.cloudfront.net^
-||d1nfaf380zbiur.cloudfront.net^
-||d25lqe4mlyaln6.cloudfront.net.^
-||d280h7aj1u7b0w.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
-||d30qdagvt44524.cloudfront.net^
-||d39x00gckxu2jb.cloudfront.net^
-||d3cy3u1txmkqs3.cloudfront.net^
-||d3g0gp89917ko0.cloudfront.net^
-||d3qjf563see442.cloudfront.net^
-||d3ryumxhbd2uw7.cloudfront.net^
-||d3u173cvt0s8do.cloudfront.net^
-||deotarevalue.com^
-||douglaug.net^
-||humoralpurline.com^
-||losingsplowter.com^
-||metinkuba.com^
-||nulpailou.com^
-||rammagepatagia.com^
-||saptorge.com^
-||stiftood.xyz^
-||topmoststramp.com^
-||urotoxykerch.com^
-||uxpascal.com^
+! regular adservers (18.07.23)
+||kaishepe.xyz^
+||paeonicgrunter.com^
+||papposeclingy.com^
+||phooghoo.com^
