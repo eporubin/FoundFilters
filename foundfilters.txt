@@ -6,22 +6,16 @@
 ||clarity.ms^$third-party 
 ||manhw.com^$third-party 
 ||lpsnmedia.net^$third-party 
+||hnxwn.com.net^$third-party 
 
 
-! regular adservers (18.07.23)
-||kaishepe.xyz^
-||paeonicgrunter.com^
-||papposeclingy.com^
-||phooghoo.com^
-||cappleacouchy.com^
-||coumasha.xyz^
-||dimcarnie.com^
-||dividedching.com^
-||haflinforms.top^
-||loutishsilents.com^
-||phauraur.com^
-||preideanested.com^
-||vendorsfacture.com^
-||villaedeinos.com^
-||jeannvalmvvvr.top^
-||pigmydocent.com^
+! regular adservers (24.07.23)
+||austaits.xyz^
+||heardsoppy.com^
+||lardspropugn.com^
+||larkyabandum.com^
+||memoriagamine.com^
+||pectasefrisker.com^
+||rashtiprimomo.com^
+||raupothrepe.com^
+||sonnetkeltics.com^
