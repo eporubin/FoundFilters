@@ -9,13 +9,11 @@
 ||hnxwn.com.net^$third-party 
 
 
-! regular adservers (24.07.23)
-||austaits.xyz^
-||heardsoppy.com^
-||lardspropugn.com^
-||larkyabandum.com^
-||memoriagamine.com^
-||pectasefrisker.com^
-||rashtiprimomo.com^
-||raupothrepe.com^
-||sonnetkeltics.com^
+! regular adservers (25.07.23)
+||bouwehee.xyz^
+||burtonsugar.com^
+||d1r51gnw3wu5rx.cloudfront.net^
+||d1sjyfqescdy46.cloudfront.net^
+||d29k50lkkhkjby.cloudfront.net^
+||d2r08ja41ypc0t.cloudfront.net^
+||oazartie.com^
